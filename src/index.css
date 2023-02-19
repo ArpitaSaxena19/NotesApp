@@ -17,8 +17,8 @@ code {
   justify-content: space-between;
 }
 .dark-mode{
-  background-color: black;
-  height:100vh;
+  background-color: red;
+  
 }
 .dark-mode h1{
   color: white;
