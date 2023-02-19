@@ -18,6 +18,7 @@ code {
 }
 .dark-mode{
   background-color: black;
+  height:100vh;
 }
 .dark-mode h1{
   color: white;
